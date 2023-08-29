@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "Which is the most popular JavaScript framework?",
+      "question": "Which is the most popular JavaScript framework/library?",
       "options": ["Angular", "React", "Svelte", "Vue"],
       "correctOption": 1,
       "points": 10
