@@ -19,3 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+ENJOY this Project! Let me know you ideas at dimkalanu@gmail.com
+cc [Dumitru Butnari] (https://www.linkedin.com/in/dumitrubutnari)
